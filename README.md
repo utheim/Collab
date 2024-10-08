@@ -1,7 +1,13 @@
-1. Pong
-2. 
-3. Paul and Martine
-4. 
-5. Java
-6.
-7. https://github.com/utheim/Collab.git
+Pong
+
+Features: Gameplay, Score tracker, multiplayer, customization
+
+Members: Paul and Martine
+
+Steps for Features: program gameplay, create artwork for customization
+
+Technologies: Java
+
+Main Pages: Pong?
+
+https://github.com/utheim/Collab.git
